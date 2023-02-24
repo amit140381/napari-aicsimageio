@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: napari-aicsimageio
+  annotations:
+    github.com/project-slug: amit140381/napari-aicsimageio
+spec:
+  type: other
+  lifecycle: unknown
+  owner: infrastructure
